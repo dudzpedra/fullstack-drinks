@@ -1,0 +1,11 @@
+POST http://localhost:3003/api/drinks
+Content-Type: application/json
+
+{
+    "title": "Elza",
+    "artist": "Ana Negra",
+    "vendor": "Empório Iracema",
+    "average": 4,
+    "reviews": 1,
+    "ratings": [4]
+}
